@@ -1,1 +1,1 @@
-# pantry
+# index
